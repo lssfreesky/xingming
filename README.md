@@ -9,5 +9,5 @@
 https://laucyun.com/f9c9039225d14ab52175ec40b65e86a4.html
 http://www.php-master.com/post/73006.html
 
-其中第一个程序是PYTHON2的，我上传的这个版本是PYTHON3
+其中第一个程序是PYTHON2版用的urllib2，我上传的这个版本是PYTHON3用的requests
 
